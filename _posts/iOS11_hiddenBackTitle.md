@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "iOS11 隐藏返回按钮标题"
 date:   2017-10-25 17:08:43 +0800
 categories: jekyll update
 ---
